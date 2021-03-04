@@ -1,0 +1,500 @@
+   67  git pull origin main
+   68  git pull origin main
+   69  git pull origin main
+   70  git pull origin main
+   71  git stash
+   72  git merge
+   73  git pull origin main
+   74  git log
+   75  cd documents
+   76  cd downloads
+   77  cd team-test
+   78  cd ..
+   79  cd downloads
+   80  cd team-test
+   81  git pull origin main
+   82  git pull origin main
+   83  git pull origin main
+   84  git pull origin main
+   85  git pull origin main
+   86  git pull origin main
+   87  git pull origin main
+   88  git pull origin main
+   89  git stash
+   90  git merge
+   91  git pull origin main
+   92  git stash
+   93  git merge
+   94  git log
+   95  cd documents
+   96  cd IBS_frontend
+   97  ls
+   98  git status
+   99  git add requirements.txt
+  100  git commit -m "fixed requirements file"
+  101  git pull origin master
+  102  git pull origin master
+  103  git push origin master
+  104  git push origin master
+  105  git push origin master
+  106  git push origin master
+  107  exit
+  108  cd documents
+  109  cd IBS_frontend
+  110  git status
+  111  git push origin main
+  112  git status
+  113  git add README.md
+  114  git status
+  115  git commit
+  116  git push origin main
+  117  ls -a
+  118  ls
+  119  exit
+  120  cd documents
+  121  git clone https://github.com/LehlohonoloMopeli/IBS-Client-Backend.git
+  122  cd IBS-Client-Backend
+  123  exit
+  124  cd downloads
+  125  cd ..
+  126  cd documents
+  127  cd IBS_frontend
+  128  ls
+  129  git status
+  130  git pull origin master
+  131  git pull origin master
+  132  git pull origin master
+  133  git pull origin master
+  134  cd documents
+  135  cd IBS_frontend
+  136  ls
+  137  git status
+  138  git pull origin main
+  139  git status
+  140  git add README.md
+  141  git commit
+  142  git push origin main
+  143  exit
+  144  cd Document
+  145  cd documents
+  146  cd Dummy_project
+  147  export FLASK_ENV=development
+  148  flask run
+  149  flask run
+  150  export FLASK_ENV=production
+  151  flask run
+  152  cd ..
+  153  cd IBS_frontend
+  154  git status
+  155  git pull origin main
+  156  git pull origin main
+  157  export FLASK_APP=frontend_Code/run.py
+  158  flask run
+  159  flask run
+  160  flask run
+  161  cd IBS_frontend
+  162  cd documents
+  163  cd IBS_frontend
+  164  flask run
+  165  export FLASK_APP=frontend_Code/run.py
+  166  flask run
+  167  export FLASK_APP=frontend_Code/run.py
+  168  flask run
+  169  export FLASK_APP=frontend_Code/run.py
+  170  flask run
+  171  cd development
+  172  cd documentd
+  173  cd documents
+  174  cd IBS_frontend
+  175  ls
+  176  flask run
+  177  FLASK_ENV=development
+  178  flask run
+  179  FLASK_ENV=development
+  180  flask run
+  181  FLASK_APP=app.py
+  182  flask run
+  183  FLASK_APP=frontend_Code/app.py
+  184  flask run
+  185  cls
+  186  cls
+  187  flask run
+  188  export FLASK_APP=app.py
+  189  flask run
+  190  export FLASK_APP=app.py
+  191  flask run
+  192  export FLASK_APP=app.py
+  193  flask run
+  194  cd documentd
+  195  cd documents
+  196  git BasicWebsites
+  197  cd BasicWebsites
+  198  node -v
+  199  cd documents
+  200  mkdir bs4
+  201  cd bs4
+  202  npm init -y
+  203  npm install gulp browser-sync gulp-sass --save-dev
+  204  exit
+  205  cd documents
+  206  ls
+  207  cd bs4
+  208  ls
+  209  npm i gulp browser-sync gulp-sass --save-dev
+  210  npm i gulp browser-sync gulp-sass --save-dev
+  211  source c:/Users/user/Documents/IBS_frontend/env/Scripts/activate
+  212  ls
+  213  ls  -a
+  214  exit
+  215  source c:/Users/user/Documents/IBS_frontend/env/Scripts/activate
+  216  cd front_
+  217  cd front_Code
+  218  cd frontend_Code
+  219  flask run
+  220  exit
+  221  git status
+  222  exit
+  223  source c:/Users/user/Documents/IBS_frontend/env/Scripts/activate
+  224  flask run
+  225  cd frontend_Code
+  226  flask run
+  227  exit
+  228  cd documents
+  229  cd bs4
+  230  npm init -y
+  231  npm install gulp browser-sync gulp-sass --save-dev
+  232  npm install gulp browser-sync gulp-sass --save-dev
+  233  npm install gulp browser-sync gulp-sass --save-dev
+  234  npm install bootstrap --save
+  235  cd frontend_Code
+  236  flask run
+  237  exit
+  238  git status
+  239  git add frontend_Code/App/static/css/cash_additional_information.css
+  240  git commit -m "added a new css file for cash additional information"
+  241  git push origin main
+  242  git push origin main
+  243  git push origin main
+  244  git status
+  245  git add frontend_Code/App/static/css/credit_additional_information.css
+  246  git push origin main
+  247  git commit -m "added a new css file for credit additional information"
+  248  git push origin main
+  249  git status
+  250  git add -u
+  251  git add -u
+  252  git commit
+  253  git status
+  254  cd frontend_Code
+  255  flask run
+  256  exit
+  257  cd C:\Users\user\Documents\IBS_frontend\frontend_Code
+  258  cd Documents
+  259  cd IBS_frontend
+  260  cd frontend_Code
+  261  pyinstaller app.py
+  262  pyinstaller app.py
+  263  pip install pyinstaller
+  264  source "./env/Scripts/activate"
+  265  cd frontend_Code
+  266  flask run
+  267  flask run
+  268  git status
+  269  git add config.py
+  270  exit
+  271  source "./env/Scripts/activate"
+  272  cd frontend_Code
+  273  flask run
+  274  flask run
+  275  source "./env/Scripts/activate"
+  276  exit
+  277  cd frontend_Code
+  278  flask run
+  279  clear
+  280  flask run
+  281  flask run
+  282  flask run
+  283  flask run
+  284  flask run
+  285  flask run
+  286  python app.py
+  287  source "./env/Scripts/activate"
+  288  source "./env/Scripts/activate"
+  289  cd frontend_Code
+  290  python app.py
+  291  python app.py
+  292  flask run
+  293  flask run
+  294  flask run
+  295  flask run
+  296  flask run
+  297  flask run
+  298  flask run
+  299  flask run
+  300  flask run
+  301  flask run
+  302  flask run
+  303  flask run
+  304  clear
+  305  clear
+  306  flask run
+  307  flask run
+  308  flask run
+  309  flask run
+  310  flask run
+  311  flask run
+  312  flask run
+  313  exit
+  314  git status
+  315  exit
+  316  cd documents
+  317  npx create-react-app dummyReact
+  318  node -v
+  319  npx create-react-app dummyReact
+  320  npx create-react-app dummyReact
+  321  npx create-react-app dummyReact
+  322  npx create-react-app dummyReact
+  323  npx create-react-app dummyReact
+  324  npx create-react-app dummyReact
+  325  npx create-react-app dummyReact
+  326  npx create-react-app dummyReact
+  327  npx create-react-app dummyReact
+  328  npx create-react-app dummyreact
+  329  npx create-react-app dummyreact
+  330  npx create-react-app dummyreact
+  331  npx create-react-app dummyreact
+  332  cd ..
+  333  npx create-react-app dummyreact
+  334  cd documents
+  335  npx create-react-app my-app
+  336  npx create-react-app my-app
+  337  npm cache clean --force
+  338  npm cache clean --force
+  339  npm cache clean --force
+  340  rm -f ~/.npm
+  341  npm i -g yarn
+  342  npx create-react-app dummyreact
+  343  cd dummyreact
+  344  code .
+  345  cd frontend_Code
+  346  flask run
+  347  git status
+  348  git add  ../README.md
+  349  git commit -m "updated the main README file"
+  350  git push origin main
+  351  git status
+  352  git add  App/register/asset/README.md
+  353  git commit -m "updated the asset README file"
+  354  git push origin main
+  355  git status
+  356  clear
+  357  flask run
+  358  flask run
+  359  flask run
+  360  flask run
+  361  export FLASK_ENV=development
+  362  flask run
+  363  export FLASK_ENV=testing
+  364  flask run
+  365  export FLASK_ENV=development
+  366  exit
+  367  npm start
+  368  npm start
+  369  npm start
+  370  npm start
+  371  npm start
+  372  node -v
+  373  node --v
+  374  node -v
+  375  exit
+  376  cd frontend
+  377  npm start
+  378  git status
+  379  git add src/Deals.css
+  380  git commit -m "Added Deals css file"
+  381  git status
+  382  git add  src/Deals.js
+  383  git commit -m "added Deals js file"
+  384  git status
+  385  git add  src/Login.css
+  386  git commit -m "added Login css file"
+  387  git status
+  388  git add src/Login.js
+  389  git commit -m "added Login js file"
+  390  git status
+  391  git add src/App.css
+  392  git add src/App.css
+  393  git commit -m "modified App css file"
+  394  git status
+  395  git add src/App.js
+  396  git add src/App.js
+  397  git commit -m "modified App js file"
+  398  git status
+  399  git add src/Header.css
+  400  git commit -m "added a Header css file"
+  401  git status
+  402  git add src/Header.js
+  403  git commit -m "modified Header js file"
+  404  git status
+  405  git add src/SignIn.css
+  406  git commit -m "updated SigIn css file"
+  407  git add src/SignIn.js
+  408  git commit -m "updated SignIn js file"
+  409  git push origin main
+  410  git status
+  411  git add src/Products.js
+  412  git commit -m "updated Products js file"
+  413  git push origin main
+  414  git push origin main
+  415  npm start
+  416  exit
+  417  cd frontend
+  418  npm start
+  419  npm start
+  420  npm start
+  421  npm start
+  422  npm start
+  423  npm start
+  424  npm start
+  425  git status
+  426  git add src/CheckoutProduct/
+  427  git commit -m "added CheckProduct"
+  428  git status
+  429  git status
+  430  git push origin main
+  431  npm start
+  432  git status
+  433  git add   src/Payments/
+  434  npm start
+  435  git status
+  436  git add  src/App/App.js
+  437  git add  src/App/App.js
+  438  git commit -m "updated App js file"
+  439  git status
+  440  git add src/Subtotal/Subtotal.js
+  441  git commit -m "updated Subtotal js file"
+  442  git status
+  443  git add  src/Reducer/Reducer.js
+  444  git commit -m "updated a Reducer js file"
+  445  git status
+  446  npm start
+  447  git status
+  448  git add  src/Products/Products.js
+  449  git commit -m "updated Products js file"
+  450  git status
+  451  git add src/Checkout/Checkout.css
+  452  git commit -m "updated Checkout css file"
+  453  git status
+  454  git add src/CheckoutProduct/CheckoutProduct.css
+  455  git commit -m "updated CheckoutProduct css file"
+  456  git status
+  457  git add src/Checkout/Checkout.js
+  458  git commit -m "modified Checkout js file"
+  459  git status
+  460  git add src/CheckoutProduct/CheckoutProduct.js
+  461  git commit -m "updated CheckoutProduct js file"
+  462  git status
+  463  git add src/Payments/Payments.css
+  464  git commit -m "updated Payments css file"
+  465  git status
+  466  git add src/Login/Login.js
+  467  git commit -m "updated Login js file"
+  468  git status
+  469  git add  src/Payments/Payments.js
+  470  git commit -m "updated Payments js file"
+  471  git push origin main
+  472  git push origin main
+  473  exit
+  474  cd frontend
+  475  npm start
+  476  npm install @stripe/stripe-js
+  477  yarn add @stripe/stripe-js
+  478  exit
+  479  python c:/Users/user/Task1.5.py
+  480  python c:/Users/user/Task1.5.py
+  481  exit
+  482  python c:/Users/user/Task1.5.py
+  483  python c:/Users/user/Task1.5.py
+  484  python c:/Users/user/Task1.5.py
+  485  exit
+  486  cd frontend
+  487  npm install firebase
+  488  yarn add firebase
+  489  yarn add firebase
+  490  yarn add firebase
+  491  yarn add firebase
+  492  cd frontend
+  493  npm start
+  494  yarn add firebase
+  495  exit
+  496  cd frontend
+  497  npm start
+  498  exit
+  499  cd documents
+  500  mkdir git-basic-exercises
+  501  cd git-basic-exercises
+  502  ls -a
+  503  git init
+  504  ls -a
+  505  git status
+  506  touch README.md
+  507  ls -a
+  508  git status
+  509  git log
+  510  git add README.md
+  511  git status
+  512  git status
+  513  git status
+  514  git log
+  515  git reset
+  516  git status
+  517  git commit -m "initial commit"
+  518  git commit -m "initial commit"
+  519  git add 
+  520  git add .
+  521  git commit -m "initial commit"
+  522  git log
+  523  nano README.md
+  524  cat README.md
+  525  git stats
+  526  git status
+  527  git commit -m "second commit"
+  528  git commit -m "second commit"
+  529  git add .\
+  530  git add .
+  531  git add .
+  532  git commit -m "second commit"
+  533  nano README.md
+  534  git status
+  535  cat README.md
+  536  git add .
+  537  git add .
+  538  git commit -m "third commit"
+  539  git status
+  540  git log
+  541  git checkout 1433a930b19a4a46f6298d2e470461207f8d3017
+  542  cat README.md
+  543  git checkout main
+  544  git checkout master
+  545  cat README.md
+  546  git branch
+  547  git checkout stumza
+  548  git checkout -b stumza
+  549  git branch
+  550  git checkout master
+  551  git checkout -b milkshake-flavours
+  552  nano milkshakes.md
+  553  cat milkshakes.md
+  554  git status
+  555  git add .
+  556  git add .
+  557  git status
+  558  git commit -m "added initial flavours"
+  559  git log
+  560  git checkout master
+  561  git checkout -b history
+  562  git log
+  563  git branch
+  564  git branch -d stumza
+  565  git branch
+  566  history > history.txt
