@@ -1,3 +1,3 @@
-strawberries
+strawberry
 vanilla
 chocolate
